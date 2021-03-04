@@ -1,0 +1,12 @@
+{
+  "name": "hi-ts",
+  "version": "1.0.0",
+  "description": "nomad ts",
+  "main": "index.js",
+  "repository": "https://github.com/KangJunewoo/hi-ts",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}
